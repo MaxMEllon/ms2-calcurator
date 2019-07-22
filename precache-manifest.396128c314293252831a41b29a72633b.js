@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7aee4e23f0f22a918d7afaf9d8292422",
+    "revision": "e8395b024068538afc903b12ff601ea2",
     "url": "/ms2-calcurator/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ms2-calcurator/static/js/2.337aab3d.chunk.js"
   },
   {
-    "revision": "8cf5c12c1143ea15ad88",
-    "url": "/ms2-calcurator/static/js/main.f93401e4.chunk.js"
+    "revision": "59169cf3d1de95ca9db1",
+    "url": "/ms2-calcurator/static/js/main.a8af9544.chunk.js"
   },
   {
     "revision": "f3e524ff048c90eafa44",
