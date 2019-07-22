@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/mm/static/js/main.0e0d1bf5.chunk.js",
-    "main.js.map": "/mm/static/js/main.0e0d1bf5.chunk.js.map",
-    "runtime~main.js": "/mm/static/js/runtime~main.ea5e37ba.js",
-    "runtime~main.js.map": "/mm/static/js/runtime~main.ea5e37ba.js.map",
-    "static/css/2.2687cd84.chunk.css": "/mm/static/css/2.2687cd84.chunk.css",
-    "static/js/2.337aab3d.chunk.js": "/mm/static/js/2.337aab3d.chunk.js",
-    "static/js/2.337aab3d.chunk.js.map": "/mm/static/js/2.337aab3d.chunk.js.map",
-    "index.html": "/mm/index.html",
-    "precache-manifest.69addba8a0b14a8cbfa63e3f2ed30fea.js": "/mm/precache-manifest.69addba8a0b14a8cbfa63e3f2ed30fea.js",
-    "service-worker.js": "/mm/service-worker.js",
-    "static/css/2.2687cd84.chunk.css.map": "/mm/static/css/2.2687cd84.chunk.css.map"
+    "main.js": "/ms2-calcurator/static/js/main.f93401e4.chunk.js",
+    "main.js.map": "/ms2-calcurator/static/js/main.f93401e4.chunk.js.map",
+    "runtime~main.js": "/ms2-calcurator/static/js/runtime~main.695b3641.js",
+    "runtime~main.js.map": "/ms2-calcurator/static/js/runtime~main.695b3641.js.map",
+    "static/css/2.2687cd84.chunk.css": "/ms2-calcurator/static/css/2.2687cd84.chunk.css",
+    "static/js/2.337aab3d.chunk.js": "/ms2-calcurator/static/js/2.337aab3d.chunk.js",
+    "static/js/2.337aab3d.chunk.js.map": "/ms2-calcurator/static/js/2.337aab3d.chunk.js.map",
+    "index.html": "/ms2-calcurator/index.html",
+    "precache-manifest.c245982086ca7195412a07356f53ad40.js": "/ms2-calcurator/precache-manifest.c245982086ca7195412a07356f53ad40.js",
+    "service-worker.js": "/ms2-calcurator/service-worker.js",
+    "static/css/2.2687cd84.chunk.css.map": "/ms2-calcurator/static/css/2.2687cd84.chunk.css.map"
   }
 }
