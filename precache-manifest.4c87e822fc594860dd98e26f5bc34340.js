@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e74885345b7dd07e04b553dc5b176f21",
+    "revision": "82f4cf3aea28a9f9feba0c465be119c5",
     "url": "/ms2-calcurator/index.html"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ms2-calcurator/static/js/2.8f088d0b.chunk.js"
   },
   {
-    "revision": "4e46f5d42405e02e0850",
-    "url": "/ms2-calcurator/static/js/main.ef400a9d.chunk.js"
+    "revision": "827bfc8ebe1a25f55f2e",
+    "url": "/ms2-calcurator/static/js/main.28f3faaf.chunk.js"
   },
   {
     "revision": "f3e524ff048c90eafa44",
     "url": "/ms2-calcurator/static/js/runtime~main.695b3641.js"
   },
   {
-    "revision": "c4bb3b777faa4944cc802c2809fcc1c5",
-    "url": "/ms2-calcurator/static/media/formla.c4bb3b77.png"
+    "revision": "0ed986df179dd7f44a6fac29fdd534c5",
+    "url": "/ms2-calcurator/static/media/formla.0ed986df.png"
   }
 ]);

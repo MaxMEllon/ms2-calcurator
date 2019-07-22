@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/ms2-calcurator/static/js/main.ef400a9d.chunk.js",
-    "main.js.map": "/ms2-calcurator/static/js/main.ef400a9d.chunk.js.map",
+    "main.js": "/ms2-calcurator/static/js/main.28f3faaf.chunk.js",
+    "main.js.map": "/ms2-calcurator/static/js/main.28f3faaf.chunk.js.map",
     "runtime~main.js": "/ms2-calcurator/static/js/runtime~main.695b3641.js",
     "runtime~main.js.map": "/ms2-calcurator/static/js/runtime~main.695b3641.js.map",
     "static/css/2.2687cd84.chunk.css": "/ms2-calcurator/static/css/2.2687cd84.chunk.css",
     "static/js/2.8f088d0b.chunk.js": "/ms2-calcurator/static/js/2.8f088d0b.chunk.js",
     "static/js/2.8f088d0b.chunk.js.map": "/ms2-calcurator/static/js/2.8f088d0b.chunk.js.map",
     "index.html": "/ms2-calcurator/index.html",
-    "precache-manifest.21306c43bca89cf9820d279c98519440.js": "/ms2-calcurator/precache-manifest.21306c43bca89cf9820d279c98519440.js",
+    "precache-manifest.4c87e822fc594860dd98e26f5bc34340.js": "/ms2-calcurator/precache-manifest.4c87e822fc594860dd98e26f5bc34340.js",
     "service-worker.js": "/ms2-calcurator/service-worker.js",
     "static/css/2.2687cd84.chunk.css.map": "/ms2-calcurator/static/css/2.2687cd84.chunk.css.map",
-    "static/media/formla.png": "/ms2-calcurator/static/media/formla.c4bb3b77.png"
+    "static/media/formla.png": "/ms2-calcurator/static/media/formla.0ed986df.png"
   }
 }
